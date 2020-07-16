@@ -1,0 +1,5 @@
+1. VGG16 = Hanya fully connected layernya yang diganti dan dibuat trainable
+2. ResNet50 = Fully connected layer diganti, feature extractor dipotong pada layer 38, dan dibuat semua layernya trainable
+3. DenseNet121 = Fully connected layer diganti, feature extractor dipotong pada layer 50, dan dibuat semua layernya trainable
+4. MobileNet = Fully connected layer diganti, feature extractor dipotong pada layer 23, dan semua layer trainable
+5. Xception = Fully connected layer diganti, feature extractor dipotong pada layer 42, dan semua layer trainable

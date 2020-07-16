@@ -1,0 +1,1 @@
+{"0": ["Abemaki"], "1": ["Akagashi"], "2": ["Arakashi"], "3": ["Buna"], "4": ["Ichiigashi"], "5": ["Inubuna"], "6": ["Kunugi"], "7": ["Kuri"], "8": ["Mizunara"]}
